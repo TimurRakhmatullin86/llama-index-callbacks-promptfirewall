@@ -2,6 +2,7 @@
 
 [![PyPI version](https://img.shields.io/pypi/v/llama-index-callbacks-promptfirewall.svg)](https://pypi.org/project/llama-index-callbacks-promptfirewall/)
 [![Python versions](https://img.shields.io/pypi/pyversions/llama-index-callbacks-promptfirewall.svg)](https://pypi.org/project/llama-index-callbacks-promptfirewall/)
+[![CI](https://github.com/TimurRakhmatullin86/llama-index-callbacks-promptfirewall/actions/workflows/ci.yml/badge.svg)](https://github.com/TimurRakhmatullin86/llama-index-callbacks-promptfirewall/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 Sub-millisecond PII detection and prompt injection firewall for LlamaIndex.
